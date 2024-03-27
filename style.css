@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #cddbb2;
+  }
+  
+  header {
+    background-color: #3aa53f;
+    color: #5e3737;
+    padding: 20px;
+    text-align: center;
+  }
+  img {
+    width: 200px;
+    text-align: center;
+  }
+  .container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(98, 107, 60, 0.1);
+  }
+.details{
+    float: left;
+    color:rgb(82, 55, 182)f;
+    ;
+}
